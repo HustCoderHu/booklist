@@ -13,7 +13,7 @@
 聪明的投资者  
 <https://book.douban.com/subject/5243775/>  
 彼得·林奇的成功投资  
-<https://book.douban.com/subject/1958714/>
+<https://book.douban.com/subject/1958714/>  
 战胜华尔街  
 <https://book.douban.com/subject/2189613/>  
 定位  
