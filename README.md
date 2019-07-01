@@ -8,6 +8,8 @@
 <https://book.douban.com/subject/26178426/>  
 心理神探 - 美国联邦调查局系列犯罪破案揭秘  
 <https://book.douban.com/subject_search?search_text=%E5%BF%83%E7%90%86%E7%A5%9E%E6%8E%A2&cat=1001>  
+输赢心理学  
+<https://book.douban.com/subject/25932595/>  
 
 # 金融投资
 聪明的投资者  
@@ -18,6 +20,17 @@
 <https://book.douban.com/subject/2189613/>  
 定位  
 <https://book.douban.com/subject/5421787/>  
+
+# 社交
+非暴力沟通  
+<https://book.douban.com/subject/3533221/>  
+横向领导力  
+<https://book.douban.com/subject/26641761/>  
+蔡康永的说话之道2  
+<https://book.douban.com/subject/25933841/>  
+给人好印象的秘诀  
+<https://book.douban.com/subject/26762231/>  
+
 
 # reference 
 <https://www.zhihu.com/question/19610070>  
